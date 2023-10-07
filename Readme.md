@@ -1,0 +1,1 @@
+The ThingsBoard library wrapper, created by @armisuari, currently has the capability to exclusively transmit telemetry data in JSON format.
